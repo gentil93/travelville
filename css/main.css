@@ -14,3 +14,11 @@
   width: 100%;
   text-align: center;
 }
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+.section-contact h5 {
+  margin-bottom: 30px;
+}
